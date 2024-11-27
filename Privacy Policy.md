@@ -1,4 +1,4 @@
-# Privacy Policy Terms & Conditions for OnlyFeat
+# Privacy Policy Terms & Conditions
   
 + This app does not collect any kind of personal data from the user.
 + OnlyFeat requires your permission to access to the microphone for the speech recognition process.
